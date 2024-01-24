@@ -1,2 +1,1 @@
-Estado 
-bueno, ahora agregamos un boton
+volvemos al archivo back
